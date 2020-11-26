@@ -1,11 +1,11 @@
 module.exports = {
   title: "FIWL",
   tagline: "[Flexible Interactive Web Layout]",
-  url: "https://Thor-x86.github.io/fiwl-docs",
-  baseUrl: "/fiwl-docs/",
+  url: "https://fiwl-js.github.io/docs",
+  baseUrl: "/docs/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.svg",
-  organizationName: "Thor-x86", // Change this when we have hosting
+  organizationName: "fiwl-js", // Change this when we have hosting
   projectName: "fiwl-docs",
   themeConfig: {
     navbar: {
@@ -16,14 +16,14 @@ module.exports = {
       },
       items: [
         {
-          to: "docs/intro/how_to_install",
+          to: "intro/how_to_install",
           activeBasePath: "docs",
           label: "Docs",
           position: "right",
         },
         /*{ to: "blog", label: "Blog", position: "left" },*/
         {
-          href: "https://github.com/Thor-x86/fiwl-js",
+          href: "https://github.com/fiwl-js/fiwl-js",
           label: "GitHub",
           position: "right",
         },
@@ -35,14 +35,13 @@ module.exports = {
       "@docusaurus/preset-classic",
       {
         docs: {
-          // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: "docs/intro/what_is_fiwl",
+          routeBasePath: '/',
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/Thor-x86/fiwl-docs/edit/master/",
+          editUrl: "https://github.com/fiwl-js/docs/edit/master/",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/Thor-x86/fiwl-docs/edit/master/blog/",
+          editUrl: "https://github.com/fiwl-js/docs/edit/master/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

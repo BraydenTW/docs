@@ -29,7 +29,7 @@ function Home() {
                 "button button--secondary button--lg",
                 styles.getStarted
               )}
-              to={useBaseUrl("docs/intro/what_is_fiwl")}
+              to={useBaseUrl("intro/what_is_fiwl")}
             >
               Let's peek Pre-Alpha!
             </Link>
