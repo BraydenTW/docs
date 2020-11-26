@@ -2,8 +2,8 @@
 
 This is repository of FIWL documentation, built with [Docusaurus](https://v2.docusaurus.io/). Feel free to contribute by opening issue or better Pull Request.
 
-- The site: [Thor-x86.github.io/fiwl-docs](http://Thor-x86.github.io/fiwl-docs)
+- The site: [fiwl-js.github.io/docs](http://fiwl-js.github.io/docs)
 
-- Source Code: [github.com/Thor-x86/fiwl-js](https://github.com/Thor-x86/fiwl-js)
+- Source Code: [github.com/fiwl-js/fiwl-js](https://github.com/fiwl-js/fiwl-js)
 
-- Project Quickstart: [github.com/Thor-x86/fiwl-quickstart](https://github.com/Thor-x86/fiwl-quickstart)
+- Project Quickstart: [github.com/fiwl-js/fiwl-quickstart](https://github.com/fiwl-js/fiwl-quickstart)
