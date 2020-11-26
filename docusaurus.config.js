@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: "throw",
   favicon: "img/favicon.svg",
   organizationName: "fiwl-js", // Change this when we have hosting
-  projectName: "fiwl-docs",
+  projectName: "docs",
   themeConfig: {
     navbar: {
       title: "FIWL [Pre-Alpha]",
