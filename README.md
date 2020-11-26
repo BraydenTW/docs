@@ -6,4 +6,4 @@ This is repository of FIWL documentation, built with [Docusaurus](https://v2.doc
 
 - Source Code: [github.com/fiwl-js/fiwl-js](https://github.com/fiwl-js/fiwl-js)
 
-- Project Quickstart: [github.com/fiwl-js/fiwl-quickstart](https://github.com/fiwl-js/fiwl-quickstart)
+- Project Quickstart: [github.com/fiwl-js/quickstart](https://github.com/fiwl-js/quickstart)
